@@ -1,13 +1,13 @@
 django
-django-ckeditor
+# django-ckeditor
 Pillow
 djangorestframework
 feedparser
 numpy
 argon2-cffi
 pdfkit
-pandas
-matplotlib
-seaborn
+# pandas
+# matplotlib
+# seaborn
 django-mathfilters
 requests
