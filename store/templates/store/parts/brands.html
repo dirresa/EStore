@@ -1,0 +1,13 @@
+<!-- Brand Start -->
+<div class="brand">
+    <div class="container-fluid">
+        <div class="brand-slider">
+            {% for brand in brands %}
+            <div class="brand-item">
+                <img src="{{ brand.image.url}}" alt="{{ brand.name }}">
+            </div>
+            {% endfor %}
+        </div>
+    </div>
+</div>
+<!-- Brand End --> 
